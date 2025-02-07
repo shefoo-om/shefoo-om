@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shefoo-om/shefoo-om/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/4a780978-d9e5-4f07-99a1-98b4d43650c9" alt="github-user-contribution" />
 
 ###
